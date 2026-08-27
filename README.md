@@ -20,8 +20,8 @@
 ### Sobre mí
 
 Analista de Datos en formación, con base en Ingeniería Industrial. Combina 
-el pensamiento sistémico de la ingeniería —identificar cuellos de botella, 
-medir procesos, optimizar resultados— con herramientas de análisis de 
+el pensamiento sistémico de la ingeniería: identificar cuellos de botella, 
+medir procesos, optimizar resultados con herramientas de análisis de 
 datos para convertir información en decisiones.
 
 - Portafolio de proyectos de análisis de datos en construcción.
