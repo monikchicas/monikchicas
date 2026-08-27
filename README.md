@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=26&duration=3000&pause=1000&color=5EC8B4&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+Server+%2B+Power+BI;Ingeniera+Industrial+en+transici%C3%B3n+a+Datos;Aprendiendo+DAX+un+proyecto+a+la+vez" alt="Typing SVG" />
 
 </div>
 
