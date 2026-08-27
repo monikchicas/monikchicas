@@ -35,11 +35,11 @@ datos para convertir información en decisiones.
 
 <div align="center">
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0C0E1C?style=for-the-badge&logo=microsoftsqlserver&logoColor=5EC8B4)
+![Power BI](https://img.shields.io/badge/Power_BI-0C0E1C?style=for-the-badge&logo=powerbi&logoColor=5EC8B4)
+![DAX](https://img.shields.io/badge/DAX-0C0E1C?style=for-the-badge&logo=microsoftexcel&logoColor=5EC8B4)
+![Git](https://img.shields.io/badge/Git-0C0E1C?style=for-the-badge&logo=git&logoColor=5EC8B4)
+![GitHub](https://img.shields.io/badge/GitHub-0C0E1C?style=for-the-badge&logo=github&logoColor=5EC8B4)
 
 </div>
 
@@ -62,7 +62,7 @@ del proceso y las decisiones metodológicas.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monikchicas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=monikchicas&show_icons=true&hide_border=true&bg_color=0C0E1C&title_color=5EC8B4&icon_color=5EC8B4&text_color=CDDCE9" alt="GitHub Stats" height="165"/>
 
 </div>
 
