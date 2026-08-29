@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <p align="center">
   <img src="./assets/banner-data-everywhere-dinosaur.gif" width="100%">
