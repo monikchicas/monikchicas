@@ -13,7 +13,7 @@
 
 ### 👋 HI! Soy Monica
 
-Analista de Datos en formación, con base en Ingeniería Industrial. Combina 
+Analista de Datos en formación, con base en Ingeniería Industrial. Combinando
 el pensamiento sistémico de la ingeniería: identificar cuellos de botella, 
 medir procesos, optimizar resultados con herramientas de análisis de 
 datos para convertir información en decisiones.
