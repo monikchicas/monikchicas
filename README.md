@@ -13,7 +13,7 @@
 
 ---
 
-### 👋 Sobre mí
+### 👋 HI! Soy Monica
 
 Analista de Datos en formación, con base en Ingeniería Industrial. Combina 
 el pensamiento sistémico de la ingeniería —identificar cuellos de botella, 
@@ -50,7 +50,7 @@ datos para convertir información en decisiones.
 
 ![Git](https://img.shields.io/badge/Git-0C0E1C?style=for-the-badge&logo=git&logoColor=5EC8B4)
 ![GitHub](https://img.shields.io/badge/GitHub-0C0E1C?style=for-the-badge&logo=github&logoColor=5EC8B4)
-![VSCode](https://img.shields.io/badge/VS_Code-0C0E1C?style=for-the-badge&logo=visualstudiocode&logoColor=5EC8B4)
+
 
 ---
 
