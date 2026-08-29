@@ -46,6 +46,7 @@ datos para convertir información en decisiones.
 ![DAX](https://img.shields.io/badge/DAX-0C0E1C?style=for-the-badge&logo=microsoftexcel&logoColor=5EC8B4)
 
 **Herramientas**
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0C0E1C?style=for-the-badge&logo=visual-studio-code&logoColor=5EC8B4)
 ![Git](https://img.shields.io/badge/Git-0C0E1C?style=for-the-badge&logo=git&logoColor=5EC8B4)
 ![GitHub](https://img.shields.io/badge/GitHub-0C0E1C?style=for-the-badge&logo=github&logoColor=5EC8B4)
