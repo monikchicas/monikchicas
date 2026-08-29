@@ -21,7 +21,7 @@ medir procesos, optimizar resultados con herramientas de análisis de
 datos para convertir información en decisiones.
 
 - 📊 Portafolio de proyectos de análisis de datos en construcción.
-- 🔎 Formación activa en funciones de ventana (SQL) y modelado de datos (DAX).
+- 🔎 Formación activa en SQL Server Y Power BI.
 - 🌐 Nivel de inglés B1 (EF SET).
 - 📬 Disponible para conversar sobre oportunidades en Análisis de Datos / BI.
 
