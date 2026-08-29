@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="BANNER.jpg" width="100%" alt="BANNER"/>
+<!-- 👇 Aquí va tu banner. Sube tu imagen a la raíz del repo y reemplaza "banner.png" por el nombre exacto del archivo -->
+<img src="banner.png" width="100%" alt="banner"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=26&duration=3000&pause=1000&color=5EC8B4&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+Server+%2B+Power+BI;Ingeniera+Industrial+en+transici%C3%B3n+a+Datos;Aprendiendo+DAX+un+proyecto+a+la+vez" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C0E1C?style=for-the-badge&logo=linkedin&logoColor=5EC8B4)](https://www.linkedin.com/in/monica-chicas-6132913bb/)
-[![Email](https://img.shields.io/badge/Email-0C0E1C?style=for-the-badge&logo=gmail&logoColor=5EC8B4)](mailto:monica.chicasdata@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0C0E1C?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:monica.chicasdata@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0C0E1C?style=for-the-badge&logo=github&logoColor=5EC8B4)](https://github.com/monikchicas)
 
 </div>
 
@@ -19,8 +22,8 @@
 ### Sobre mí
 
 Analista de Datos en formación, con base en Ingeniería Industrial. Combina 
-el pensamiento sistémico de la ingeniería: identificar cuellos de botella, 
-medir procesos, optimizar resultados con herramientas de análisis de 
+el pensamiento sistémico de la ingeniería —identificar cuellos de botella, 
+medir procesos, optimizar resultados— con herramientas de análisis de 
 datos para convertir información en decisiones.
 
 - Portafolio de proyectos de análisis de datos en construcción.
