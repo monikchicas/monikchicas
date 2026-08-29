@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-data-everywhere-dinosaur.gif" width="100%">
+  <img src="./banner-data-everywhere-computer.gif" width="100%">
 </p>
 
 <br/>
