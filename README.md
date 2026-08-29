@@ -67,12 +67,6 @@ del proceso y las decisiones metodológicas.
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=monikchicas&show_icons=true&hide_border=true&bg_color=0C0E1C&title_color=5EC8B4&icon_color=5EC8B4&text_color=CDDCE9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikchicas&layout=compact&hide_border=true&bg_color=0C0E1C&title_color=5EC8B4&text_color=CDDCE9" alt="Top Langs" height="165"/>
 
 </div>
 
