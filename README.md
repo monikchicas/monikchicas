@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- 👇 Aquí va tu banner. Sube tu imagen a la raíz del repo y reemplaza "banner.png" por el nombre exacto del archivo -->
-<img src="banner.png" width="100%" alt="banner"/>
+<p align="center">
+  <img src="./assets/banner-data-everywhere-dinosaur.gif" width="100%">
+</p>
 
 <br/>
 
