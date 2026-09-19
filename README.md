@@ -54,7 +54,13 @@ datos para convertir información en decisiones.
 
 ---
 
-### 📌 Proyecto destacado
+### 📌 Proyectos destacados
+
+**[Análisis de Correlación y Dashboard Ejecutivo — Global Electronics Retailer](https://github.com/monikchicas/Analisis-de-Correlacion-y-Dashboard-Ejecutivo-Global-Electronics-Retailer)**
+
+Análisis de correlación y regresión lineal aplicado a una cadena minorista de electrónica con presencia en 8 países, identificando qué factores se relacionan con el desempeño de tiendas y clientes. Incluye segmentación de clientes por cuartil de gasto (el 25% que más gasta genera el 62.7% de los ingresos) y un dashboard ejecutivo interactivo de 3 páginas en Power BI.
+
+`SQL Server` `Power BI` `DAX` `Correlación y Regresión` `Funciones de Ventana`
 
 **[Análisis de Tiempos de Entrega — DataCo Global Supply Chain](https://github.com/monikchicas/supply-chain-analysis)**
 
@@ -64,7 +70,6 @@ BI + DAX para un dashboard interactivo. Incluye documentación completa
 del proceso y las decisiones metodológicas.
 
 `SQL Server` `Power BI` `DAX` `Análisis de negocio`
-
 ---
 
 
