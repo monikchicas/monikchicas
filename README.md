@@ -1,3 +1,5 @@
+🇪🇸 Español | [🇺🇸 English](README.english.md)
+
 <p align="center">
  <img src="./banner-data-everywhere-computer (2).gif" width="100%">
 </p>
