@@ -73,6 +73,7 @@ BI + DAX para un dashboard interactivo. Incluye documentación completa
 del proceso y las decisiones metodológicas.
 
 `SQL Server` `Power BI` `DAX` `Análisis de negocio`
+
 ---
 
 
